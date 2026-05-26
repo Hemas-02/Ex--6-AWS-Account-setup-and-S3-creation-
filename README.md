@@ -1,6 +1,6 @@
-# Ex--3-AWS-Account-setup-and-S3-creation
+# Ex--6-AWS-Account-setup-and-S3-creation
 
-# Name :HEMALATHA R
+# Name : HEMALATHA R
 # Reg.no : 212224040114
 
 # Introduction
@@ -41,7 +41,7 @@ Now, I have uploaded some files into the bucket I just created. There are no res
 ![image](https://github.com/user-attachments/assets/b4aa897c-f2e2-4473-8f90-595b530529e9)
 ![image](https://github.com/user-attachments/assets/3a137296-7bce-474e-9aee-90f1270da0b5)
 
-You can upload files of any extension, folders, and subfolders. The images below explain that you can drag and drop files or select them from your computer. After uploading a file, you can download, cut, copy, make it public, rename, or delete it. Making a file public means everyone can access it, and you will receive a link (e.g., https://s3-ap-southeast-2.amazonaws.com/...) to share it.
+You can upload files of any extension, folders, and subfolders. The images below explain that you can drag and drop files or select them from your computer. After uploading a file, you can download, cut, copy, make it public, rename, or delete it. Making a file public means everyone can access it, and you will receive a link (e.g., `https://s3-ap-southeast-2.amazonaws.com/...`) to share it.
 
 ![image](https://github.com/user-attachments/assets/5f1fee62-d590-494f-8345-aeb80745e810)
 ![image](https://github.com/user-attachments/assets/b3030041-ce14-43a8-8e6c-4c26a875d52e)
